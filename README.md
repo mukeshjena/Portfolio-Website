@@ -32,7 +32,7 @@ I'm thrilled to connect with you! Whether you want to discuss a potential projec
 
 📧 Email: muk3shjena@gmail.com
 
-🌐 Website: [mukeshjena](https://bit.ly/MukeshJena)
+🌐 Website: [mukeshjena](https://mukesh-jena.netlify.app/)
 
 ## Let's Create Something Extraordinary!
 
